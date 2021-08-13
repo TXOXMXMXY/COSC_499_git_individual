@@ -1,6 +1,6 @@
-# COSC_499_git_individual
+# Footbar
 
-CDEFEFE
+## Installation
 
-ABCABC
+## Usage
 
