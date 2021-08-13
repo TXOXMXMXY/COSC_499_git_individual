@@ -1,6 +1,9 @@
-# Footbar
+# Hope-baddate-app
+## Purpose
+Developing an app for Hope Outreach to help people report bad date incidents
 
-## Installation
+Run starter code:
 
-## Usage
-
+- run `npm install`
+- Android: `npx react-native run-android` 
+- Web: `npm run web`
